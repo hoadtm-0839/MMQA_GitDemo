@@ -2,4 +2,4 @@ Team member:
 1. Do Thi Minh Hoa - HoaDTM
 2. Nguyen Tung Quan - QuanNT
 3. Duong Thi Diem Huong - HuongDTD
-huong public
+huong public (changed in 2nd PR)
