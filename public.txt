@@ -2,5 +2,5 @@ Team member:
 1. Do Thi Minh Hoa - HoaDTM
 2. Nguyen Tung Quan - QuanNT
 3. Duong Thi Diem Huong - HuongDTD
-huong public (changed in 2nd PR)
-QuanNT-B YYYYY
+
+Repo: https://github.com/hoadtm-0839/MMQA_GitPractice
