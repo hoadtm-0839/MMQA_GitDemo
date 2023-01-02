@@ -2,5 +2,8 @@ This is private file
 1. HoaDTM - Project A
 2. QuanNT - Project B
 3. HuongDTD - Project C
-huong private (changed in 2nd PR)
-QuanNT-B kkkkkk
+
+NOTE: 
+#1: HuongDTD fix conflic
+#2: QuanNT fix confic
+#3: HoaDTM fix conflic
